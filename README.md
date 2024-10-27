@@ -1,18 +1,8 @@
-## Getting Started
+## Impelmentando Abstract Factory em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Utilizando o exemplo abaixo como base, esse repositório é uma simples demosntração desse padrão de projeto que nos ajuda na manutenção de códigos separando o código cliente das "fábricas" por interfaces.
 
-## Folder Structure
+<img src="https://refactoring.guru/images/patterns/diagrams/abstract-factory/example.png?id=5928a61d18bf00b047463471c599100a" alt="Exemplo de Abstract Factory" />
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Retiado do site:
+[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/abstract-factory)
