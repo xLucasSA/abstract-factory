@@ -1,4 +1,4 @@
-package com.design_patterns.abstract_factory;
+package src.com.design_patterns.abstract_factory;
 
 public interface GUIFactory {
     public Button createButton();
